@@ -1,0 +1,326 @@
+2025-07-04 17:17:32,709 - __main__ - INFO - ARC system starting up...
+2025-07-04 17:17:33,582 - gui.dispatcher_dashboard - INFO - Dispatcher Dashboard GUI initialized.
+2025-07-04 17:17:33,623 - arc_engine.arc_engine_core - INFO - Initializing ARCEngineCore...
+2025-07-04 17:17:33,624 - communication.database_manager - INFO - Table 'known_faces' created or already exists.
+2025-07-04 17:17:33,624 - communication.database_manager - INFO - Successfully connected to the database at data/known_faces.db
+2025-07-04 17:17:37,006 - arc_logger - INFO - Successfully opened video source: 0
+2025-07-04 17:17:40,264 - arc_logger - INFO - Successfully loaded YOLO model from yolov8n.pt
+2025-07-04 17:18:54,420 - __main__ - INFO - ARC system starting up...
+2025-07-04 17:18:54,795 - gui.dispatcher_dashboard - INFO - Dispatcher Dashboard GUI initialized.
+2025-07-04 17:18:54,835 - arc_engine.arc_engine_core - INFO - Initializing ARCEngineCore...
+2025-07-04 17:18:54,836 - communication.database_manager - INFO - Table 'known_faces' created or already exists.
+2025-07-04 17:18:54,836 - communication.database_manager - INFO - Successfully connected to the database at data/known_faces.db
+2025-07-04 17:18:56,451 - arc_logger - INFO - Successfully opened video source: 0
+2025-07-04 17:18:56,615 - arc_logger - INFO - Successfully loaded YOLO model from yolov8n.pt
+2025-07-04 17:18:56,615 - arc_logger - ERROR - Error loading known faces from database: 'DatabaseManager' object has no attribute 'get_all_known_faces'
+2025-07-04 17:18:56,615 - arc_logger - INFO - FacialRecognitionModule initialized.
+2025-07-04 17:18:56,615 - arc_engine.arc_engine_core - INFO - ARCEngineCore initialized successfully.
+2025-07-04 17:18:56,616 - gui.dispatcher_dashboard - INFO - ARCEngine thread started.
+2025-07-04 17:18:56,717 - __main__ - INFO - Dispatcher Dashboard GUI launched.
+2025-07-04 17:18:56,715 - gui.dispatcher_dashboard - INFO - EngineWorker started.
+2025-07-04 17:20:00,763 - __main__ - INFO - ARC system starting up...
+2025-07-04 17:20:00,928 - gui.dispatcher_dashboard - INFO - Dispatcher Dashboard GUI initialized.
+2025-07-04 17:20:00,953 - arc_engine.arc_engine_core - INFO - Initializing ARCEngineCore...
+2025-07-04 17:20:00,954 - communication.database_manager - INFO - Table 'known_faces' created or already exists.
+2025-07-04 17:20:00,954 - communication.database_manager - INFO - Successfully connected to the database at data/known_faces.db
+2025-07-04 17:20:02,446 - arc_logger - INFO - Successfully opened video source: 0
+2025-07-04 17:20:02,548 - arc_logger - INFO - Successfully loaded YOLO model from yolov8n.pt
+2025-07-04 17:20:02,548 - arc_logger - ERROR - Error loading known faces from database: 'DatabaseManager' object has no attribute 'get_all_known_faces'
+2025-07-04 17:20:02,548 - arc_logger - INFO - FacialRecognitionModule initialized.
+2025-07-04 17:20:02,548 - arc_engine.arc_engine_core - INFO - ARCEngineCore initialized successfully.
+2025-07-04 17:20:02,548 - gui.dispatcher_dashboard - INFO - ARCEngine thread started.
+2025-07-04 17:20:02,548 - gui.dispatcher_dashboard - INFO - EngineWorker started.
+2025-07-04 17:20:02,615 - __main__ - INFO - Dispatcher Dashboard GUI launched.
+2025-07-04 17:20:03,957 - arc_engine.target_tracking_module - INFO - Initialized CSRT tracker for target at (119, 166, 387, 312)
+2025-07-04 17:20:03,957 - arc_engine.arc_engine_core - INFO - Target selected. Starting tracking.
+2025-07-04 17:22:08,822 - __main__ - INFO - ARC system starting up...
+2025-07-04 17:22:09,043 - gui.dispatcher_dashboard - INFO - Dispatcher Dashboard GUI initialized.
+2025-07-04 17:22:09,078 - arc_engine.arc_engine_core - INFO - Initializing ARCEngineCore...
+2025-07-04 17:22:09,079 - communication.database_manager - INFO - Table 'known_faces' created or already exists.
+2025-07-04 17:22:09,079 - communication.database_manager - INFO - Successfully connected to the database at data/known_faces.db
+2025-07-04 17:22:10,630 - arc_logger - INFO - Successfully opened video source: 0
+2025-07-04 17:22:10,723 - arc_logger - INFO - Successfully loaded YOLO model from yolov8n.pt
+2025-07-04 17:22:10,723 - arc_logger - ERROR - Error loading known faces from database: 'DatabaseManager' object has no attribute 'get_all_known_faces'
+2025-07-04 17:22:10,723 - arc_logger - INFO - FacialRecognitionModule initialized.
+2025-07-04 17:22:10,723 - arc_engine.arc_engine_core - INFO - ARCEngineCore initialized successfully.
+2025-07-04 17:22:10,724 - gui.dispatcher_dashboard - INFO - ARCEngine thread started.
+2025-07-04 17:22:10,724 - gui.dispatcher_dashboard - INFO - EngineWorker started.
+2025-07-04 17:22:10,791 - __main__ - INFO - Dispatcher Dashboard GUI launched.
+2025-07-04 17:22:12,154 - arc_engine.target_tracking_module - INFO - Initialized CSRT tracker for target at (272, 261, 120, 218)
+2025-07-04 17:22:12,154 - arc_engine.arc_engine_core - INFO - Target selected. Starting tracking.
+2025-07-04 17:22:12,237 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,238 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,287 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,287 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,354 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,354 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,425 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,425 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,489 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,489 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,555 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,555 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,623 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,623 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,687 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,687 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,758 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,758 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,833 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,833 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,895 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,896 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:12,958 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:12,958 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,021 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,021 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,090 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,091 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,156 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,157 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,222 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,222 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,356 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,356 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,425 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,425 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,556 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,556 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,823 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,823 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,893 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,893 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:13,961 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:13,961 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,026 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,026 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,093 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,093 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,158 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,159 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,225 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,225 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,293 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,293 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,359 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,359 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,427 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,428 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,494 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,494 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,558 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,558 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,822 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,823 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:14,893 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:14,894 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:15,625 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:15,626 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:15,761 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:15,761 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:15,828 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:15,829 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:15,961 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:15,962 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,092 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,098 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,163 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,163 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,226 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,226 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,294 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,295 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,363 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,363 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,426 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,426 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,493 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,493 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,558 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,559 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,625 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,625 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,692 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,693 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,763 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,763 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:16,958 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:16,959 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:19,131 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:19,131 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:19,396 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:19,396 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:19,529 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:19,529 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:19,930 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:19,930 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:20,130 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:20,130 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:32,997 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:32,998 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:33,067 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:33,067 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:33,133 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:33,134 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:33,200 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:33,201 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:33,268 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:33,269 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:33,364 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:33,365 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:34,732 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:34,732 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:34,831 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:34,831 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:34,904 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:34,904 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:34,966 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:34,966 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,065 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,066 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,134 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,134 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,202 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,203 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,466 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,466 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,534 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,534 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,666 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,666 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,733 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,733 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,799 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,799 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,866 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,869 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:35,933 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:35,934 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:36,031 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:36,032 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:36,100 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:36,100 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:36,168 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:36,168 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:36,366 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:36,367 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:36,635 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:36,636 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:36,904 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:36,904 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:37,233 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:37,233 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:37,300 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:37,301 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:37,369 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:37,369 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:37,466 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:37,466 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:37,537 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:37,537 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:39,334 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:39,334 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:22:50,318 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:22:50,319 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:11,959 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:11,960 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,089 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,090 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,153 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,154 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,221 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,222 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,353 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,353 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,420 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,420 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,486 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,486 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,553 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,553 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,621 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,621 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,685 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,686 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,753 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,754 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,845 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,850 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,934 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,935 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:12,994 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:12,994 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:13,057 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:13,058 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:13,120 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:13,120 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:13,190 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:13,190 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:13,252 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:13,252 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:13,319 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:13,320 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:13,386 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:13,387 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:13,588 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:13,589 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,385 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,385 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,455 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,456 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,520 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,520 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,589 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,589 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,655 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,655 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,720 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,720 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,789 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,789 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,854 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,854 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,923 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,923 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:14,994 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:14,998 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,055 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,055 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,123 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,124 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,188 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,189 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,257 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,257 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,323 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,323 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,391 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,395 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,462 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,462 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,522 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,526 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,588 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,589 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,656 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,656 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,722 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,725 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,790 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,794 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,856 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,859 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,923 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,927 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:15,989 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:15,989 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:16,057 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:16,057 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:16,127 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:16,132 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:16,189 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:16,189 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:23:16,259 - gui.dispatcher_dashboard - INFO - Closing application...
+2025-07-04 17:23:16,259 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:23:16,259 - arc_engine.arc_engine_core - INFO - Shutting down ARCEngineCore.
+2025-07-04 17:23:16,377 - arc_logger - INFO - Released video source: 0

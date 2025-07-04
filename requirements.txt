@@ -1,0 +1,9 @@
+opencv-contrib-python
+ultralytics
+face_recognition
+PyQt5
+torch
+gymnasium
+stable-baselines3
+numpy
+scipy
