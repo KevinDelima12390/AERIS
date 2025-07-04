@@ -20,7 +20,7 @@ class DatabaseManager:
         self.conn = None
         self.cursor = None
         try:
-            self.conn = sqlite3.connect(self.db_path)
+            self.conn = sqlite3.connect(self.db_path, check_same_thread=False)
             self.cursor = self.conn.cursor()
             self._create_table()
             self.logger.info(f"Successfully connected to the database at {self.db_path}")
@@ -67,7 +67,7 @@ class DatabaseManager:
             self.logger.error(f"Error adding face for '{name}': {e}")
             raise
 
-    def get_all_faces(self):
+    def get_all_known_faces(self):
         """
         Retrieves all face embeddings from the database.
 

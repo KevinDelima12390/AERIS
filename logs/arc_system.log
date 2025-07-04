@@ -324,3 +324,28 @@
 2025-07-04 17:23:16,259 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
 2025-07-04 17:23:16,259 - arc_engine.arc_engine_core - INFO - Shutting down ARCEngineCore.
 2025-07-04 17:23:16,377 - arc_logger - INFO - Released video source: 0
+2025-07-04 17:25:03,264 - __main__ - INFO - ARC system starting up...
+2025-07-04 17:25:03,502 - gui.dispatcher_dashboard - INFO - Dispatcher Dashboard GUI initialized.
+2025-07-04 17:25:03,536 - arc_engine.arc_engine_core - INFO - Initializing ARCEngineCore...
+2025-07-04 17:25:03,537 - communication.database_manager - INFO - Table 'known_faces' created or already exists.
+2025-07-04 17:25:03,537 - communication.database_manager - INFO - Successfully connected to the database at data/known_faces.db
+2025-07-04 17:25:05,098 - arc_logger - INFO - Successfully opened video source: 0
+2025-07-04 17:25:05,198 - arc_logger - INFO - Successfully loaded YOLO model from yolov8n.pt
+2025-07-04 17:25:05,198 - communication.database_manager - INFO - Retrieved 0 faces from the database.
+2025-07-04 17:25:05,198 - arc_logger - WARNING - No known faces found in the database.
+2025-07-04 17:25:05,198 - arc_logger - INFO - FacialRecognitionModule initialized.
+2025-07-04 17:25:05,198 - arc_engine.arc_engine_core - INFO - ARCEngineCore initialized successfully.
+2025-07-04 17:25:05,198 - gui.dispatcher_dashboard - INFO - ARCEngine thread started.
+2025-07-04 17:25:05,198 - gui.dispatcher_dashboard - INFO - EngineWorker started.
+2025-07-04 17:25:05,262 - __main__ - INFO - Dispatcher Dashboard GUI launched.
+2025-07-04 17:25:06,724 - arc_engine.target_tracking_module - INFO - Initialized CSRT tracker for target at (197, 169, 343, 310)
+2025-07-04 17:25:06,724 - arc_engine.arc_engine_core - INFO - Target selected. Starting tracking.
+2025-07-04 17:25:18,350 - arc_engine.arc_engine_core - INFO - Recognized: Unknown
+2025-07-04 17:25:18,351 - gui.dispatcher_dashboard - INFO - Person Identified: Unknown
+2025-07-04 17:25:48,071 - gui.dispatcher_dashboard - INFO - Closing application...
+2025-07-04 17:25:48,133 - arc_engine.arc_engine_core - INFO - Shutting down ARCEngineCore.
+2025-07-04 17:25:48,293 - arc_logger - INFO - Released video source: 0
+2025-07-04 17:25:48,294 - communication.database_manager - INFO - Database connection closed.
+2025-07-04 17:25:48,294 - arc_engine.arc_engine_core - INFO - ARCEngineCore shutdown complete.
+2025-07-04 17:25:48,295 - gui.dispatcher_dashboard - INFO - EngineWorker finished.
+2025-07-04 17:25:48,295 - gui.dispatcher_dashboard - INFO - Thread finished.
